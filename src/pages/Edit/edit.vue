@@ -4,8 +4,8 @@
   </div>
 </template>
 
-<script src="./template.js">
+<script src="edit.js">
 
 </script>
 
-<style src="./template.css"></style>
+<style src="edit.css"></style>
