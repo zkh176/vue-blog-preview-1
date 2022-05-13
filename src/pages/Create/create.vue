@@ -4,8 +4,8 @@
   </div>
 </template>
 
-<script src="create.js">
+<script src="./create.js">
 
 </script>
 
-<style src="create.css"></style>
+<style src="./create.css"></style>

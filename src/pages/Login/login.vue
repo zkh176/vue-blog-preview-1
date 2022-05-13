@@ -4,8 +4,8 @@
   </div>
 </template>
 
-<script src="login.js">
+<script src="./login.js">
 
 </script>
 
-<style src="login.css"></style>
+<style src="./login.css"></style>
